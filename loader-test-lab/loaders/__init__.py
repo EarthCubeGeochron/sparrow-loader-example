@@ -1,4 +1,3 @@
-from xml.dom import ValidationErr
 import sparrow
 from json import load
 from os import path
